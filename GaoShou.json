@@ -14,7 +14,7 @@
     "apiVersion":  15,
     "referencePromeVersion":  "1.5.3.2",
     "sponsorUrl":  "https://ifdian.net/a/GaoShou",
-    "version":  "1.0.14.0",
-    "sha256":  "c45f14b107f0a64e8c7e00d56b0d4491155ca939757d225a579bb8be6c93523e",
+    "version":  "1.0.15.0",
+    "sha256":  "2edd5b66971ae14a693c04c032d0f2b3ca60ab817f461bb60837b306a2fface4",
     "downloadUrl":  "https://github.com/Gaoshou0v0/PR-acr/raw/main/GaoShou.zip"
 }
