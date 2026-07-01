@@ -1,21 +1,21 @@
 {
-  "author": "GaoShou",
-  "version": "1.0.9.0",
-  "description": "\u6211\u91CD\u4E34\u738B\u5EA7\u4E4B\u65E5\uFF0C\u8BF8\u9006\u81E3\u5E94\u5F53\u6B7B\u53BB\u3002",
-  "supportedJobs": [
-    {
-      "job": "DRK",
-      "contentScope": "HighEnd"
-    },
-    {
-      "job": "RDM",
-      "contentScope": "HighEnd"
-    }
-  ],
-  "apiVersion": 15,
-  "referencePromeVersion": "1.5.3.2",
-  "downloadUrl": "https://raw.githubusercontent.com/Gaoshou0v0/PR-acr/main/GaoShou.zip",
-  "sourceRepositoryUrl": "",
-  "sponsorUrl": "https://ifdian.net/a/GaoShou",
-  "sha256": "d4d0db7fc0106ac3d922adec70558b5334992c83f5064334be2df451de75244d"
+    "author":  "GaoShou",
+    "version":  "1.0.11.0",
+    "description":  "我重临王座之日，诸逆臣应当死去。",
+    "supportedJobs":  [
+                          {
+                              "job":  "DRK",
+                              "contentScope":  "HighEnd"
+                          },
+                          {
+                              "job":  "RDM",
+                              "contentScope":  "HighEnd"
+                          }
+                      ],
+    "apiVersion":  15,
+    "referencePromeVersion":  "1.5.3.2",
+    "downloadUrl":  "https://github.com/Gaoshou0v0/PR-acr/raw/main/GaoShou.zip",
+    "sourceRepositoryUrl":  "https://github.com/Gaoshou0v0/PR-acr",
+    "sponsorUrl":  "https://ifdian.net/a/GaoShou",
+    "sha256":  "0f7f10045e57d99475761e90bbc1d70afd531169934d6186ab57140c76d547fd"
 }
