@@ -1,6 +1,5 @@
 {
     "author":  "GaoShou",
-    "version":  "1.0.11.0",
     "description":  "我重临王座之日，诸逆臣应当死去。",
     "supportedJobs":  [
                           {
@@ -14,8 +13,9 @@
                       ],
     "apiVersion":  15,
     "referencePromeVersion":  "1.5.3.2",
-    "downloadUrl":  "https://github.com/Gaoshou0v0/PR-acr/raw/main/GaoShou.zip",
-    "sourceRepositoryUrl":  "https://github.com/Gaoshou0v0/PR-acr",
     "sponsorUrl":  "https://ifdian.net/a/GaoShou",
-    "sha256":  "0f7f10045e57d99475761e90bbc1d70afd531169934d6186ab57140c76d547fd"
+    "version":  "1.0.12.0",
+    "sha256":  "dc17110a5aa97f112a4088c6b7f5783af7f60a29832ee36a7ccd1f33f070ff6d",
+    "sourceRepositoryUrl":  "https://github.com/Gaoshou0v0/PR-acr",
+    "downloadUrl":  "https://github.com/Gaoshou0v0/PR-acr/raw/main/GaoShou.zip"
 }
